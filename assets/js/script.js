@@ -65,7 +65,9 @@ dineyplus: "Siempre estoy ahi para alegrarte las tardes, amargarte las noches y 
 hbo: "H te veo",
 amazon: "A mazon que se para, se le niega toda existencia...perdon pero no era asi el dicho, era a maxon que se para, se le dan todos los tributo...no podemos hacer eso...pues entonces cancele mi suscripción",
 hoyts: "me encantan tu asientos! son tan cómodos que me quedo dormida en la mitad de la película. Gracias por tu servicio",
-
+dragon: "en rojo por favor, gracias. Si si, en rojo, el negro es de alguien más.",
+diablo: "mejor déjala, ya la chupó el diablo",
+casa: "Take me home, to the place I belong, West Virginia...with a green tea, take me home, country road"
 };
 
   return responses[input.toLowerCase()] || "Lo siento, no entiendo esa pregunta.";
