@@ -67,7 +67,10 @@ amazon: "A mazon que se para, se le niega toda existencia...perdon pero no era a
 hoyts: "me encantan tu asientos! son tan cómodos que me quedo dormida en la mitad de la película. Gracias por tu servicio",
 dragon: "en rojo por favor, gracias. Si si, en rojo, el negro es de alguien más.",
 diablo: "mejor déjala, ya la chupó el diablo",
-casa: "Take me home, to the place I belong, West Virginia...with a green tea, take me home, country road"
+casa: "Take me home, to the place I belong, West Virginia...with a green tea, take me home, country road",
+unicornio: "Bueno, malo o multimillonario? Depende, no? Todo es posible!...es un mundo de posibilidades, lleno de sueños y de arcoiris...hasta que el gobierno te quita toooodas las esperanzas y te la llena de impuestos. Sabias palabras mias y de homero simpsons",
+bart: "Yo te quiero, gracias por haberle dado tanto al mundo sin pedir nada a cambio, salvo existir, como todos los demás",
+bye: "bye"
 };
 
   return responses[input.toLowerCase()] || "Lo siento, no entiendo esa pregunta.";
